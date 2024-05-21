@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956062479747",
+    "project_id": "healthcare-ca64f",
+    "storage_bucket": "healthcare-ca64f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956062479747:android:3cde3399fa540b3043f2b6",
+        "android_client_info": {
+          "package_name": "com.example.semester_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB59BmdXt9NHnr6uPU8-l-4qoQFSLmSPjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
